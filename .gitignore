@@ -1,0 +1,6 @@
+spam/*
+__pycache__/*
+.git/*
+dump.rdb
+emails.csv
+Phishing_Email.csv
